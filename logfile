@@ -1,0 +1,3 @@
+serving ourstupiduniverse.net on port: 3002
+127.0.0.1 - - [Sat, 28 Sep 2013 06:11:36 GMT] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:24.0) Gecko/20100101 Firefox/24.0"
+127.0.0.1 - - [Sat, 28 Sep 2013 17:15:08 GMT] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:24.0) Gecko/20100101 Firefox/24.0"
